@@ -3,7 +3,9 @@ new_data_science_project_cookie_cutter
 
 first time using cookiecutter
 
-Project Organization
+Electricity Forecasting
+
+Data is saved in a seperate Google Drive folder: https://drive.google.com/open?id=1g_fae8_JD1h_XpJeMS3zi_Zh4zKclvEd
 ------------
 
     ├── LICENSE
